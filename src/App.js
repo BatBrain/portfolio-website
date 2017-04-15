@@ -61,9 +61,7 @@ const BasicExample = () => (
           `<nav class="menu">
             <input type="checkbox" href="#" class="menu-open" name="menu-open" id="menu-open"/>
             <label class="menu-open-button" for="menu-open">
-              <span class="hamburger hamburger-1"></span>
-              <span class="hamburger hamburger-2"></span>
-              <span class="hamburger hamburger-3"></span>
+              <img src="./brain-logo-white.svg" style="width: auto; height: 100%;">
             </label>
 
             <a href="#" class="menu-item"> <i class="fa fa-bar-chart"></i> </a>
